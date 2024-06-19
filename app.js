@@ -5,8 +5,8 @@ const menuItems = document.querySelectorAll(".menuItem");
 const products = [
   {
     id: 1,
-    title: "Air Force",
-    price: 119.99,
+    title: "Nike Air Force 1 High '07",
+    price: 150.67,
     colors: [
       {
         code: "black",
@@ -20,23 +20,23 @@ const products = [
   },
   {
     id: 2,
-    title: "Air Jordan",
-    price: 168.99,
+    title: "Air Jordan I High G",
+    price: 190,
     colors: [
       {
-        code: "lightgray",
-        img: "./img/jordan.png",
+        code: "blue",
+        img: "./img/air jord22.png",
       },
       {
-        code: "green",
-        img: "./img/jordan2.png",
+        code: "black",
+        img: "./img/air jord11.png",
       },
     ],
   },
   {
     id: 3,
-    title: "Blazer",
-    price: 99.99,
+    title: "Nike Blazer Mid '77 Vintage",
+    price: 80.99,
     colors: [
       {
         code: "lightgray",
@@ -50,8 +50,8 @@ const products = [
   },
   {
     id: 4,
-    title: "Crater",
-    price: 180,
+    title: "Nike Crater Impact",
+    price: 57.,
     colors: [
       {
         code: "black",
@@ -65,16 +65,16 @@ const products = [
   },
   {
     id: 5,
-    title: "Hippie",
-    price: 56.76,
+    title: "Nike Air Max LTD 3",
+    price: 130,
     colors: [
       {
-        code: "gray",
-        img: "./img/hippie.png",
+        code: "white",
+        img: "./img/air max white.png",
       },
       {
-        code: "black",
-        img: "./img/hippie2.png",
+        code: "grey",
+        img: "./img/air max grey.png",
       },
     ],
   },

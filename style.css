@@ -77,7 +77,7 @@ html {
   }
   
   .sliderBg {
-    width: 750px;
+    width: 750x;
     height: 750px;
     border-radius: 50%;
     position: absolute;
@@ -141,14 +141,14 @@ html {
     background-color: cornflowerblue;
   }
   .sliderItem:nth-child(5) .sliderBg {
-    background-color: rgb(117, 97, 17);
+    background-color:lightgray;
   }
   
   .sliderItem:nth-child(1) .sliderPrice {
     color: #369e62;
   }
   .sliderItem:nth-child(2) .sliderPrice {
-    color: rgb(8, 1, 1);
+    color: rgb(233, 7, 7);
   }
   .sliderItem:nth-child(3) .sliderPrice {
     color: teal;
@@ -157,7 +157,7 @@ html {
     color: cornflowerblue;
   }
   .sliderItem:nth-child(5) .sliderPrice {
-    color: rgb(66, 2, 18);
+    color: rgba(5, 194, 241, 0.959);
   }
   
   .features {
